@@ -1,0 +1,9 @@
+﻿<Application x:Class="İl_İlçe_Ekleme_Şeysi.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:İl_İlçe_Ekleme_Şeysi"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

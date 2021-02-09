@@ -1,0 +1,35 @@
+﻿<Page x:Class="İl_İlçe_Ekleme_Şeysi.Views.İlçeEkle"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:İl_İlçe_Ekleme_Şeysi.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="İlçeEkle" Background="#1e1a1e" Foreground="White">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <StackPanel>
+                <Border BorderBrush="White" BorderThickness="0,0,0,2" Margin="0,0,0,10">
+                    <TextBlock Text="İ L Ç E  K A Y D E T" HorizontalAlignment="Center" FontSize="20" ></TextBlock>
+                </Border>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="İl Seçiniz" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <ComboBox x:Name="Cbİller" Width="100" Height="25"></ComboBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="İlçe Giriniz" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <TextBox x:Name="Tbİlce" Width="100" Height="25"></TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="İlçe Nüfusu" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <TextBox x:Name="TbİlceNüfusu" Width="100" Height="25"></TextBox>
+                </StackPanel>
+                <Button x:Name="BtnİlceKaydet" Content="K A  Y D E T" FontSize="15" Height="25" Margin="0,5"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

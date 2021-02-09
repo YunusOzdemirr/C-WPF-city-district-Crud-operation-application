@@ -1,0 +1,49 @@
+﻿<Page x:Class="İl_İlçe_Ekleme_Şeysi.Views.İlEkle"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:İl_İlçe_Ekleme_Şeysi.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="İlEkle" Background="#1e1a1e" Foreground="White">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel>
+                <Border BorderBrush="White" BorderThickness="0,0,0,2" Margin="0,0,0,10">
+                    <TextBlock Text="İ L   K A Y D E T" HorizontalAlignment="Center" FontSize="20" ></TextBlock>
+                </Border>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="İl Adı" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <TextBox x:Name="TbİlSec" Width="100" Height="25" FontSize="14" VerticalContentAlignment="Center"></TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="Plaka Kodu" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <ComboBox x:Name="CbPlaka" Width="100" Height="25" FontSize="14" VerticalContentAlignment="Center"></ComboBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="İl Nüfusu " FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <TextBox x:Name="TbİlNüfus" Width="100" Height="25" FontSize="14" VerticalContentAlignment="Center"></TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="Yüz Ölçümü" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <TextBox x:Name="TbYüzÖlcümü" Width="100" Height="25" FontSize="14" VerticalContentAlignment="Center"></TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <TextBlock Text="Fotoğraf Seçin" FontSize="14" Width="100" VerticalAlignment="Center"></TextBlock>
+                    <StackPanel Orientation="Vertical">
+                        <Button x:Name="BtnResimEkle" Content="Seçiniz" FontSize="14" Width="100" Height="25" ></Button>
+                        <Image x:Name="ImgResim"  Width="100" Visibility="Collapsed" Margin="0,5,0,5"></Image>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <Button x:Name="BtnİlKaydet" Content="K A  Y D E T" FontSize="15" Height="25" Margin="0,5"></Button>
+        </StackPanel>
+
+    </Grid>
+</Page>

@@ -1,0 +1,24 @@
+﻿<Window x:Class="İl_İlçe_Ekleme_Şeysi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:İl_İlçe_Ekleme_Şeysi"
+        mc:Ignorable="d"
+        Title="İl-İlçe uygulaması" Height="450" Width="700"  x:Name="WindowAyarları" Background="#1e1e1e" WindowStartupLocation="CenterOwner" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="Kayıt İşlemleri" FontSize="14" Width="110" Height="25">
+                <MenuItem Header="İl Ekle"   Tag="İlEkle"   Click="MiNavigasyon"></MenuItem>
+                <MenuItem Header="İlçe Ekle" Tag="İlçeEkle" Click="MiNavigasyon"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Listele" FontSize="14" Tag="Listele" Click="MiNavigasyon" ></MenuItem>
+           
+        </Menu>
+        <Frame x:Name="Frm" Grid.Row="1" Source="/İl-İlçe-Ekleme-Şeysi;component/Views/Açılış.xaml" NavigationUIVisibility="Hidden" ></Frame>
+    </Grid>
+</Window>

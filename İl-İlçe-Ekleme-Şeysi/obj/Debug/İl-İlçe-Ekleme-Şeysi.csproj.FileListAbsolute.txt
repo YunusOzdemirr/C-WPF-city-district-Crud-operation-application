@@ -1,0 +1,88 @@
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe.config
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csprojResolveAssemblyReference.cache
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.g.cs
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\App.g.cs
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.cache
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.lref
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.baml
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.g.resources
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl_İlçe_Ekleme_Şeysi.Properties.Resources.resources
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csproj.GenerateResource.Cache
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csproj.CoreCompileInputs.cache
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.exe
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.g.cs
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.g.cs
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.g.cs
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.baml
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.baml
+D:\Uygulamalar\1041\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.baml
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe.config
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.g.cs
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.g.cs
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.g.cs
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.g.cs
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\App.g.cs
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.cache
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.lref
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.baml
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.baml
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.baml
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.baml
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.g.resources
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl_İlçe_Ekleme_Şeysi.Properties.Resources.resources
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csproj.GenerateResource.cache
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.exe
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Açılış.g.cs
+C:\Users\furka\Desktop\programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Açılış.baml
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe.config
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csprojAssemblyReference.cache
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.g.cs
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Açılış.g.cs
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.g.cs
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.g.cs
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.g.cs
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\App.g.cs
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.cache
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.lref
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.baml
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Açılış.baml
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.baml
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.baml
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.baml
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.g.resources
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl_İlçe_Ekleme_Şeysi.Properties.Resources.resources
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csproj.GenerateResource.cache
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.exe
+C:\Users\Ares\Desktop\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe.config
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.exe
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\bin\Debug\İl-İlçe-Ekleme-Şeysi.pdb
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csprojAssemblyReference.cache
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Açılış.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\App.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.cache
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi_MarkupCompile.lref
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\MainWindow.baml
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Açılış.baml
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\Listele.baml
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlEkle.baml
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\Views\İlçeEkle.baml
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.g.resources
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl_İlçe_Ekleme_Şeysi.Properties.Resources.resources
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csproj.GenerateResource.cache
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.csproj.CoreCompileInputs.cache
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.exe
+C:\Users\Ares\Desktop\düzgün programlar\İl-İlçe-Ekleme-Şeysi\İl-İlçe-Ekleme-Şeysi\obj\Debug\İl-İlçe-Ekleme-Şeysi.pdb

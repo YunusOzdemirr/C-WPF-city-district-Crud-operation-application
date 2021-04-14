@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="İl-İlçe-Ekleme-Şeysi/Views/İlçeEkle.xaml.cs">
+    <Files>
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Models/İl.cs" Line="19" Column="1" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Views/İlçeEkle.xaml" Line="15" Column="41" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Views/İlçeEkle.xaml.cs" Line="30" Column="23" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Views/İlEkle.xaml.cs" Line="1" Column="1" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/MainWindow.xaml.cs" Line="26" Column="32" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Models/İlçe.cs" Line="15" Column="21" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Models/Veri.cs" Line="1" Column="1" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Views/Açılış.xaml" Line="14" Column="37" />
+      <File FileName="İl-İlçe-Ekleme-Şeysi/Views/Açılış.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="İl-İlçe-Ekleme-Şeysi" expanded="True">
+            <Node name="İl-İlçe-Ekleme-Şeysi" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="İlçeEkle.xaml" expanded="True">
+                  <Node name="İlçeEkle.xaml.cs" selected="True" />
+                </Node>
+                <Node name="İlEkle.xaml" expanded="True" />
+              </Node>
+              <Node name="MainWindow.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
